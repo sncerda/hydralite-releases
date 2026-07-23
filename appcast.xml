@@ -6,10 +6,20 @@
     <description>Private Beta updates for HydraLite Pro</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1</title>
+      <sparkle:version>0.1.1</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <pubDate>Thu, 23 Jul 2026 22:08:46 GMT</pubDate>
+      <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.1/HydraLitePro-Setup-0.1.1.exe"
+                 sparkle:version="0.1.1"
+                 sparkle:shortVersionString="0.1.1"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.0</title>
       <sparkle:version>0.1.0</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-      <pubDate>Thu, 23 Jul 2026 21:08:38 GMT</pubDate>
+      <pubDate>Thu, 23 Jul 2026 22:08:46 GMT</pubDate>
       <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.0/HydraLitePro-Setup-0.1.0.exe"
                  sparkle:version="0.1.0"
                  sparkle:shortVersionString="0.1.0"
