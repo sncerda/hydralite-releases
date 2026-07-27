@@ -6,20 +6,20 @@
     <description>Private Beta updates for HydraLite Pro</description>
     <language>en</language>
     <item>
-      <title>Version 0.1.6</title>
-      <sparkle:version>0.1.6</sparkle:version>
-      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
-      <pubDate>Sat, 25 Jul 2026 23:14:57 GMT</pubDate>
-      <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.6/HydraLitePro-Setup-0.1.6.exe"
-                 sparkle:version="0.1.6"
-                 sparkle:shortVersionString="0.1.6"
+      <title>Version 0.1.7</title>
+      <sparkle:version>0.1.7</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <pubDate>Mon, 27 Jul 2026 23:04:15 GMT</pubDate>
+      <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.7/HydraLitePro-Setup-0.1.7.exe"
+                 sparkle:version="0.1.7"
+                 sparkle:shortVersionString="0.1.7"
                  type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.1.1</title>
       <sparkle:version>0.1.1</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-      <pubDate>Sat, 25 Jul 2026 23:14:57 GMT</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:04:15 GMT</pubDate>
       <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.1/HydraLitePro-Setup-0.1.1.exe"
                  sparkle:version="0.1.1"
                  sparkle:shortVersionString="0.1.1"
@@ -29,7 +29,7 @@
       <title>Version 0.1.0</title>
       <sparkle:version>0.1.0</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-      <pubDate>Sat, 25 Jul 2026 23:14:57 GMT</pubDate>
+      <pubDate>Mon, 27 Jul 2026 23:04:15 GMT</pubDate>
       <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.0/HydraLitePro-Setup-0.1.0.exe"
                  sparkle:version="0.1.0"
                  sparkle:shortVersionString="0.1.0"
