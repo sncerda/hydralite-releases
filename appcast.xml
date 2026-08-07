@@ -6,20 +6,20 @@
     <description>Private Beta updates for HydraLite Pro</description>
     <language>en</language>
     <item>
-      <title>Version 0.1.12</title>
-      <sparkle:version>0.1.12</sparkle:version>
-      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
-      <pubDate>Fri, 31 Jul 2026 02:22:44 GMT</pubDate>
-      <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.12/HydraLitePro-Setup-0.1.12.exe"
-                 sparkle:version="0.1.12"
-                 sparkle:shortVersionString="0.1.12"
+      <title>Version 0.1.13</title>
+      <sparkle:version>0.1.13</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+      <pubDate>Fri, 07 Aug 2026 13:53:32 GMT</pubDate>
+      <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.13/HydraLitePro-Setup-0.1.13.exe"
+                 sparkle:version="0.1.13"
+                 sparkle:shortVersionString="0.1.13"
                  type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.1.1</title>
       <sparkle:version>0.1.1</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-      <pubDate>Fri, 31 Jul 2026 02:22:44 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 13:53:32 GMT</pubDate>
       <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.1/HydraLitePro-Setup-0.1.1.exe"
                  sparkle:version="0.1.1"
                  sparkle:shortVersionString="0.1.1"
@@ -29,7 +29,7 @@
       <title>Version 0.1.0</title>
       <sparkle:version>0.1.0</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-      <pubDate>Fri, 31 Jul 2026 02:22:44 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 13:53:32 GMT</pubDate>
       <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.0/HydraLitePro-Setup-0.1.0.exe"
                  sparkle:version="0.1.0"
                  sparkle:shortVersionString="0.1.0"
