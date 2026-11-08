@@ -6,20 +6,20 @@
     <description>Beta updates for HydraLite Pro</description>
     <language>en</language>
     <item>
-      <title>Version 0.1.30</title>
-      <sparkle:version>0.1.30</sparkle:version>
-      <sparkle:shortVersionString>0.1.30</sparkle:shortVersionString>
-      <pubDate>Fri, 06 Nov 2026 00:23:12 GMT</pubDate>
-      <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.30/HydraLitePro-Setup-0.1.30.exe"
-                 sparkle:version="0.1.30"
-                 sparkle:shortVersionString="0.1.30"
+      <title>Version 0.1.31</title>
+      <sparkle:version>0.1.31</sparkle:version>
+      <sparkle:shortVersionString>0.1.31</sparkle:shortVersionString>
+      <pubDate>Sun, 08 Nov 2026 21:51:02 GMT</pubDate>
+      <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.31/HydraLitePro-Setup-0.1.31.exe"
+                 sparkle:version="0.1.31"
+                 sparkle:shortVersionString="0.1.31"
                  type="application/octet-stream" />
     </item>
     <item>
       <title>Version 0.1.1</title>
       <sparkle:version>0.1.1</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-      <pubDate>Fri, 06 Nov 2026 00:23:12 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 21:51:02 GMT</pubDate>
       <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.1/HydraLitePro-Setup-0.1.1.exe"
                  sparkle:version="0.1.1"
                  sparkle:shortVersionString="0.1.1"
@@ -29,7 +29,7 @@
       <title>Version 0.1.0</title>
       <sparkle:version>0.1.0</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-      <pubDate>Fri, 06 Nov 2026 00:23:12 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 21:51:02 GMT</pubDate>
       <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.0/HydraLitePro-Setup-0.1.0.exe"
                  sparkle:version="0.1.0"
                  sparkle:shortVersionString="0.1.0"
