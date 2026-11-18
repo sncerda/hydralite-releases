@@ -6,6 +6,19 @@
     <description>Beta updates for HydraLite Pro</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.33</title>
+      <sparkle:version>0.1.33</sparkle:version>
+      <sparkle:shortVersionString>0.1.33</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/sncerda/hydralite-releases/releases/tag/v0.1.33</sparkle:releaseNotesLink>
+      <pubDate>Wed, 18 Nov 2026 00:10:18 GMT</pubDate>
+      <enclosure url="https://github.com/sncerda/hydralite-releases/releases/download/v0.1.33/HydraLitePro-Setup-0.1.33.exe"
+                 sparkle:version="0.1.33"
+                 sparkle:shortVersionString="0.1.33"
+                 length="24269376"
+                 sha256="44ec4481fbd7dc0d733f6bb15059f57f2565fa558407ae9b159ff206ed37a419"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.32</title>
       <sparkle:version>0.1.32</sparkle:version>
       <sparkle:shortVersionString>0.1.32</sparkle:shortVersionString>
